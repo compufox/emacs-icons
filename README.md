@@ -1,4 +1,6 @@
-# Skamacs ![emacs logo with checkered background, a hat, and a trumpet](images/Skamacs.png)
+# Skamacs
+
+![emacs logo with checkered background, a hat, and a trumpet](images/Skamacs_128.png)
 
 This is a replacement icon for the Emacs text editor.
 
