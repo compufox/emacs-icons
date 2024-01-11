@@ -6,7 +6,7 @@
 
 This repo contains replacement icons for the Emacs text editor that I have created. 
 
-They come to me in a feverdream, and is now your waking nightmare.
+They come to me in a feverdream, and are now your waking nightmare.
 
 Enjoy!
 
