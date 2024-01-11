@@ -1,10 +1,12 @@
-# Skamacs
+# Emacs Icons
 
-![emacs logo with checkered background, a hat, and a trumpet](images/Skamacs_128.png)
+![emacs logo with checkered background, a hat, and a trumpet](skamacs/images/Skamacs_128.png)
 
-This is a replacement icon for the Emacs text editor.
+![a green emacs logo smoking a low-res blunt with weed leaves behind the 'E'](weedmacs/images/Weedmacs_Circle_128.png)
 
-It came to me in a feverdream, and now my dream is your waking nightmare.
+This repo contains replacement icons for the Emacs text editor that I have created. 
+
+They come to me in a feverdream, and is now your waking nightmare.
 
 Enjoy!
 
@@ -12,16 +14,13 @@ Enjoy!
 
 ### macOS
 
-1. click Emacs.app
+1. select Emacs.app in Finder
 2. Cmd + i
-3. drag Skamacs.icns onto app icon in the "Info" pane that popped up
+3. drag your selected icon (.icns file) onto app icon in the "Info" pane that popped up
 
 ### Windows
 
-1. Right click Emacs.exe
-2. Click "Change Icon"
-3. Navigate to downloaded repo
-4. Select Skamacs.ico
+See [this](https://www.techjunkie.com/change-icon-program/) article and follow the instructions listed under "Option Two"
 
 
 ## License
