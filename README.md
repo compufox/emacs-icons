@@ -1,8 +1,8 @@
 # Emacs Icons
 
-![emacs logo with checkered background, a hat, and a trumpet](skamacs/images/Skamacs_128.png)
-
-![a green emacs logo smoking a low-res blunt with weed leaves behind the 'E'](weedmacs/images/Weedmacs_Circle_128.png)
+Skamacs Icon | Weedmacs Icon
+:-----------:|:------------:
+![emacs logo with checkered background, a hat, and a trumpet](skamacs/images/Skamacs_128.png) | ![a green emacs logo smoking a low-res blunt with weed leaves behind the 'E'](weedmacs/images/Weedmacs_Circle_128.png)
 
 This repo contains replacement icons for the Emacs text editor that I have created. 
 
