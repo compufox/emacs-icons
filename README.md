@@ -1,8 +1,8 @@
 # Emacs Icons
 
-Skamacs Icon | Weedmacs Icon | VHSMacs Icon |
-:-----------:|:-------------:|:------------:|
-![emacs logo with checkered background, a hat, and a trumpet](skamacs/images/Skamacs_128.png) | ![a green emacs logo smoking a low-res blunt with weed leaves behind the 'E'](weedmacs/images/Weedmacs_Circle_128.png) | ![an emacs logo made to look like a VHS cover. it features a hand reaching towards a laptop overtop of some code in the background underneath the title "EMACS"](vhsmacs/images/VHSMacs_128.png)
+Skamacs Icon | Weedmacs Icon | VHSMacs Icon | Peacemacs |
+:-----------:|:-------------:|:------------:|:---------:|
+![emacs logo with checkered background, a hat, and a trumpet](skamacs/images/Skamacs_128.png) | ![a green emacs logo smoking a low-res blunt with weed leaves behind the 'E'](weedmacs/images/Weedmacs_Circle_128.png) | ![an emacs logo made to look like a VHS cover. it features a hand reaching towards a laptop overtop of some code in the background underneath the title "EMACS"](vhsmacs/images/VHSMacs_128.png) | ![a rainbow E over top of a tie-dye background. there are darker elements of the background that give the appearance of a peace symbol.](peacemacs/images/peacemacs_128.png)
 
 This repo contains replacement icons for the Emacs text editor that I have created. 
 
